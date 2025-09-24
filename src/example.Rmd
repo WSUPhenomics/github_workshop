@@ -1,5 +1,5 @@
 ---
-title: "GitHub Learning"
+title: "One try GitHub Learning"
 output:
   pdf_document: default
   html_document: default
